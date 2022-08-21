@@ -10,6 +10,8 @@ server.db = router.db
 
 server.use((req, res, next) => {
   res.header('Access-Control-Allow-Origin', 'https://dainty-paprenjak-d6a3df.netlify.app');
+  res.header('Access-Control-Allow-Origin', 'http://localhost:3000');
+
   res.header('Access-Control-Allow-Headers', '*')
   next()
 })
