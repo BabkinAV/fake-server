@@ -63,6 +63,14 @@
       "phoneNumber": "123456",
       "email": "test3@test.com",
       "userId": 3
+    },
+    {
+      "id": "2151eff7-7a31-42d4-b54e-67afdb188ce6",
+      "firstName": "Andrey",
+      "lastName": "Babkin",
+      "phoneNumber": "987987987353",
+      "email": "sfsf@sfs.ru",
+      "userId": 4
     }
   ],
   "users": [
@@ -80,6 +88,21 @@
       "email": "test3@test.com",
       "password": "$2a$10$iDmXaKStZfd6Cf1Gldlo7eHStkMuVjFGiQ5ldtxwHS/oS2IljlYXW",
       "id": 3
+    },
+    {
+      "email": "test55@test.com",
+      "password": "$2a$10$6TbUCWe7xc0EiANZ9uXhPO23RL9xpvUCLAaQGnTp4V6nLs/yL2Fwm",
+      "id": 4
+    },
+    {
+      "email": "test66@test.com",
+      "password": "$2a$10$/N1ZzCNnaedP3KD39ODrJuv3uC3DpjZ78qjzXsdz/OfMdfYtgn0v6",
+      "id": 5
+    },
+    {
+      "email": "test100@test.com",
+      "password": "$2a$10$X79NTQqxC8hq2cVByWAVOeLBcKAyawWOtKOzdrf6XeVxxv4r4nSS6",
+      "id": 6
     }
   ]
 }
