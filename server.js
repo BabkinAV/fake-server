@@ -7,7 +7,7 @@ server.use(cors());
 const router = jsonServer.router('db.json'); 
 
 const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 3200; // <== You can change the port
+const port = process.env.PORT || 3000; // <== You can change the port
 
 server.db = router.db
 
